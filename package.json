@@ -1,0 +1,23 @@
+{
+  "name": "robot-arm",
+  "version": "1.0.0",
+  "description": "robot arm control with three servos",
+  "main": {
+    "1" : "keys_ctrl.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fanaimi/robot-arm.git"
+  },
+  "author": "fanaimi, emiliano fantasia",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/fanaimi/robot-arm/issues"
+  },
+  "homepage": "https://github.com/fanaimi/robot-arm",
+  "devDependencies": {
+    "johnny-five": "0.9.1",
+    "keypress": "0.2.1",
+    "nodemon": "1.7.3"
+  }
+}
