@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "robot arm control with three servos",
   "main": {
-    "1" : "keys_ctrl.js"
+    "1" : "1-keys_ctrl.js"
   },
   "repository": {
     "type": "git",
