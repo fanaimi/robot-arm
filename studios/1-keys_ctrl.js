@@ -1,8 +1,8 @@
 /**
  * @Created by emil on 24/10/2015.
  *
- * @name        single SERVO
- * @desc        test for robot arm
+ * @name        1-keys_ctrl.js
+ * @desc        studio for robot arm: controlling with keyboard
  */
 
 
