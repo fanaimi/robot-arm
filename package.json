@@ -15,7 +15,7 @@
     "url": "https://github.com/fanaimi/robot-arm/issues"
   },
   "homepage": "https://github.com/fanaimi/robot-arm",
-  "devDependencies": {
+  "dependencies": {
     "johnny-five": "0.9.1",
     "keypress": "0.2.1",
     "nodemon": "1.7.3"
